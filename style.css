@@ -1,0 +1,40 @@
+@font-face{
+  font-family: chick-fil-a-font;
+  src: url(font-fil-a.ttf);
+  font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body{
+  background-color: #E51636;
+}
+
+h1{
+  text-align: center;
+  font-family: chick-fil-a-font;
+  color: #ffffff;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+}
+
+p{
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: normal;
+}
